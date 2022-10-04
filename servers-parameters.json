@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Project2"
+    },
+    {
+        "ParameterKey": "AMIName",
+        "ParameterValue": "ami-0ee23bfc74a881de5"
+    }
+]

@@ -53,7 +53,6 @@ Resources:
                     echo "Udacity Demo Web Server Up and Running!" > index.html
       
             ImageId: !Ref AMIName
-            KeyName: access
             SecurityGroups:
             - Ref: WebServerSecGroup
             InstanceType: t3.medium
